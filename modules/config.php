@@ -3,6 +3,8 @@ date_default_timezone_set("Asia/Tehran");
 
 $Types = [
     "V2rayNGn" => ["vmess", "vless"],
+    "reality_daily" => ["vmess", "vless"],
+    "forwardv2ray" => ["vmess", "vless"],
     "free4allVPN" => ["vmess", "ss"],
     "PrivateVPNs" => ["trojan"],
     "DirectVPN" => ["trojan"],
